@@ -13,6 +13,8 @@ let snakeArr = [
 
 food = {x: 6, y: 7};
 
+//VERSION 2.0
+
 // Game Functions
 function main(ctime) {
     window.requestAnimationFrame(main);
